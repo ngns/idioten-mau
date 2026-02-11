@@ -50,7 +50,7 @@ Geht nix? → **zieh 1**. Mund halten, weitermachen.
 
 ---
 
-### **Bube – Joker-Modus**
+### **Bube – Wunschfarbe**
 - Bube geht **immer**
 - Du sagst, **welche Farbe jetzt zählt**
 - Letzte Karte = Bube? → **Farbe vom Buben zählt**
@@ -58,6 +58,13 @@ Geht nix? → **zieh 1**. Mund halten, weitermachen.
 **Aber:**  
 ❌ **Bube auf Bube = NO GO**  
 (Regel: *„Bube auf Bube stinkt“* – diskutier nicht.)
+
+---
+
+### **Joker – der Killer**
+- Joker geht **immer**
+- Joker **killt letzte Karte** - einfach weg das Opfer
+- Dann weiter mit der drunter
 
 ---
 

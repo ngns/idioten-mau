@@ -11,9 +11,8 @@ Der Begriff „Idiot“ stellt **keine Bewertung realer Personen** dar, sondern 
 ---
 
 ### 2. Spielmaterial und Teilnehmer
-- Das Spiel kann mit einem **handelsüblichen Skatblatt (32 Karten)** gespielt werden.
-- Für dieses Spiel existiert ein **speziell gestaltetes Idioten-Mau-Kartenblatt**, dessen Verwendung nicht zwingend erforderlich ist, nach allgemeiner Spielerfahrung jedoch in den meisten Fällen zu einem **erhöhten Spielspaß und einer besseren thematischen Einbettung** führt.
-- Die empfohlene Spieleranzahl beträgt **drei (3) bis sechs (6) Personen**.
+- Für dieses Spiel existiert ein **speziell gestaltetes Idioten-Mau-Kartenblatt einschließlich Joker**, dessen Verwendung zwingend erforderlich ist, da einem handelsüblichen Skatblatt der Joker fehlt und nach allgemeiner Spielerfahrung die Nutzung des Spezialblattes zu **erhöhtem Spielspaß und einer besseren thematischen Einbettung** führt.
+- Die empfohlene Spieleranzahl beträgt **drei (3) bis sechs (6) Personen**, das Spiel kann aber auch zu zweit gespielt werden.
 
 ---
 
@@ -76,6 +75,13 @@ Kann ein Spieler keine regelkonforme Karte ablegen, ist er verpflichtet, **eine 
 **Einschränkung:**  
 Ein Bube darf **nicht auf einen zuvor abgelegten Buben** gelegt werden  
 (Grundsatzregel: „Bube auf Bube stinkt“).
+
+---
+
+#### 6.4 Karte „Joker“ – frisst die oberste Karte
+- Der Joker darf **auf jede Karte** abgelegt werden.
+- Durch das Ablegen frisst er die **oberste Karte** des Ablagestapels.
+- Der folgende Spieler setzt das Spiel **auf Basis der darunterliegenden Karte** fort.
 
 ---
 

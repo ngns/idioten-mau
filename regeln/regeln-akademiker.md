@@ -14,6 +14,11 @@ Wer verliert, startet die nächste Runde unter verschärften Bedingungen.
 
 ---
 
+## Spielmaterial
+- Gespielt wird mit **33 Karten** inklusive **Joker**; ein Skatblatt ohne Joker ist für eine endorfinergiebige Spielweise **ungenügend**.
+
+---
+
 ## Rundenstart & Kartenzuteilung
 - In der ersten Runde erhält **jeder Spieler exakt eine Karte**.
 - Der Verlierer einer Runde erhält in der folgenden Runde **eine zusätzliche Startkarte**.
@@ -64,6 +69,13 @@ Ist kein regelkonformer Spielzug möglich, zieht der Spieler **eine Karte**.
 **Restriktion:**  
 Ein Bube darf **niemals auf einen Buben** gelegt werden  
 (*Regelaxiom: „Bube auf Bube stinkt“*).
+
+---
+
+### **Joker – Eliminator der Oberkarte**
+- Der Joker ist **universell spielbar**.
+- Er **eliminiert die oberste Karte** des Ablagestapels.
+- Der folgende Spieler setzt **auf Basis der darunterliegenden Karte** fort.
 
 ---
 

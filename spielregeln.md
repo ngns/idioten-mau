@@ -7,7 +7,7 @@ Der Spieler, der als Letzter Karten hält, gilt als **Verlierer der Runde** und 
 ---
 
 ## Spielmaterial
-- Ein klassisches Skatblatt (32 Karten)
+- Ein klassisches Skatblatt plus Joker (33 Karten)
 - 3–6 Spieler (empfohlen)
 
 ---
@@ -75,6 +75,13 @@ Kann ein Spieler keine gültige Karte legen, **zieht er eine Karte** (Details je
 **Einschränkung:**
 - ❌ **Bube darf niemals auf einen Buben gelegt werden**  
   („**Bube auf Bube stinkt**“).
+
+---
+
+### **Joker – frisst die oberste Karte**
+- Der **Joker** darf **auf jede Karte** gelegt werden.
+- Er **frisst die oberste Karte** des Ablagestapels.
+- Der nächste Spieler **spielt weiter auf Basis der darunterliegenden Karte**.
 
 ---
 

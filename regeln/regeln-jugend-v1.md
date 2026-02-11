@@ -8,6 +8,7 @@ Wer am Ende allein noch Karten hat, **verliert** – und ist der **Idiot** (nur 
 ---
 
 ## Start
+- Wir spielen mit **33 Karten** inkl. **Joker**
 - Erste Runde: **Jeder bekommt 1 Karte**
 - Wer eine Runde verliert, bekommt **nächste Runde 1 Karte mehr**
 - Verlierst du öfter → **mehr Startkarten**
@@ -49,7 +50,7 @@ Passt nix? → **Karte ziehen**
 
 ---
 
-### **Bube – Joker**
+### **Bube – Wunschfarbe**
 - Bube geht **immer**
 - Du darfst dir eine **Farbe wünschen**
 - Wenn du mit Bube **rausgehst** → Farbe vom Buben zählt
@@ -57,6 +58,13 @@ Passt nix? → **Karte ziehen**
 **Achtung:**  
 ❌ **Bube auf Bube geht nicht**  
 (Regelname: *„Bube auf Bube stinkt“*)
+
+---
+
+### **Joker – frisst die Karte**
+- Joker geht **immer**
+- Der Joker **frisst die oberste Karte**
+- Der Nächste spielt **auf Basis der darunterliegenden Karte**
 
 ---
 

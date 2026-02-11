@@ -22,7 +22,7 @@ Ganz fair.
 
 Aber passt gut auf:
 Wer eine Runde verliert,  
-der bekommt in der nächsten Runde **eine Karte mehr**.  
+der bekommt in der nächsten Runde **eine Karte mehr**.
 Und wenn man öfter verliert,  
 dann werden es auch **immer mehr Karten**.
 
@@ -116,6 +116,14 @@ Denn:
 
 ---
 
+### 😎 Der Joker
+Der **Joker** darf **immer** gelegt werden.  
+Wenn er kommt, dann **frisst** er die oberste Karte einfach auf.  
+Der nächste Spieler spielt dann weiter 
+mit der Karte, die **darunter** liegt.
+
+---
+
 ## Wann ist eine Runde vorbei?
 
 Die Runde ist zu Ende,  
@@ -127,7 +135,8 @@ und bekommt in der nächsten Runde
 **eine Karte mehr**.
 
 Aber weißt du was?  
-In der nächsten Runde kann alles wieder anders sein.
+In der nächsten Runde kann alles wieder anders sein,
+du brauchst also nicht weinen.
 
 ---
 
@@ -138,8 +147,8 @@ Manchmal verliert man.
 Manchmal ist man der Idiot.
 
 Aber:
-- Wir lachen zusammen  
-- Wir spielen fair  
+- Wir lachen zusammen 
+- Wir spielen fair
 - Und wir haben Spaß
 
 Denn das ist das Wichtigste am Idioten-Mau.
@@ -148,4 +157,3 @@ So.
 Jetzt mischen wir.  
 Und dann schauen wir mal,  
 wer heute der Idiot ist 😉
-
