@@ -8,7 +8,7 @@ Der Spieler, der als Letzter Karten hält, gilt als **Verlierer der Runde** und 
 
 ## Spielmaterial
 - Ein klassisches Skatblatt plus Joker (33 Karten)
-- 3–6 Spieler (empfohlen)
+- 2–6 Spieler (empfohlen 3-6)
 
 ---
 
